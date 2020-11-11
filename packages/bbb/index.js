@@ -1,5 +1,5 @@
 function bbb() {
-  return 'bbb';
+  return 'bbb'.repeat(2);
 }
 
 export { bbb };
