@@ -1,0 +1,22 @@
+{
+  "name": "@winexy/ccc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@winexy/aaa": "1.0.0",
+    "@winexy/bbb": "1.0.0"
+  },
+  "devDependencies": {
+    "jest": "26.6.3",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3"
+  }
+}
