@@ -1,6 +1,6 @@
 {
   "name": "@winexy/ccc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@winexy/aaa": "^1.0.1",
-    "@winexy/bbb": "^1.1.0"
+    "@winexy/bbb": "^1.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
