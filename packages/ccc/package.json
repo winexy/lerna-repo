@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@winexy/aaa": "^1.0.1",
-    "@winexy/bbb": "^1.0.1"
+    "@winexy/bbb": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
